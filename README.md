@@ -11,18 +11,19 @@ In this task I created a simple volleyball page with a heading and paragraph.
 
 I used media queries to change the font size on mobile, tablet and desktop.
 
-Screenshot:
+Screenshots:
+
 Mobile:
 
-![alt text]({CF2607DF-89E8-499B-96BD-A3557DBA6F3E}.png)
+![Task 0 Mobile](image-15.png)
 
 Tablet:
 
-![alt text]({CF2607DF-89E8-499B-96BD-A3557DBA6F3E}-1.png)
+![Task 0 Tablet](image-14.png)
 
 Desktop:
 
-![alt text]({CF2607DF-89E8-499B-96BD-A3557DBA6F3E}-2.png)
+![Task 0 Desktop](image-13.png)
 
 ## Task 1 - Responsive Layout with Media Queries
 
@@ -36,15 +37,15 @@ On desktop all three boxes are shown in one row.
 
 Mobile:
 
-![alt text]({CF2607DF-89E8-499B-96BD-A3557DBA6F3E}-3.png)
+![Task 1 Mobile](image-12.png)
 
 Tablet:
 
-![alt text]({CF2607DF-89E8-499B-96BD-A3557DBA6F3E}-4.png)
+![Task 1 Tablet](image-11.png)
 
 Desktop:
 
-![alt text]({CF2607DF-89E8-499B-96BD-A3557DBA6F3E}-5.png)
+![Task 1 Desktop](image-10.png)
 
 ## Task 2 - Bootstrap Responsive Columns
 
@@ -58,15 +59,15 @@ I used:
 
 Mobile:
 
-![alt text]({41E99CD2-9445-47C8-AE72-54CBA95D6D52}.png)
+![Task 2 Mobile](image-9.png)
 
 Tablet:
 
-![alt text]({41E99CD2-9445-47C8-AE72-54CBA95D6D52}-1.png)
+![Task 2 Tablet](image-8.png)
 
 Desktop:
 
-![alt text]({41E99CD2-9445-47C8-AE72-54CBA95D6D52}-2.png)
+![Task 2 Desktop](image-7.png)
 
 ## Task 3 - Bootstrap Navigation Bar
 
@@ -80,11 +81,11 @@ On a small screen the navigation changes to a hamburger menu.
 
 Mobile:
 
-![alt text](image-1.png)
+![Task 3 Mobile](image-5.png)
 
 Desktop:
 
-![alt text](image.png)
+![Task 3 Desktop](image-6.png)
 
 ## Task 4 - Responsive Portfolio Page
 
@@ -103,15 +104,15 @@ The layout changes for mobile, tablet and desktop.
 
 Mobile:
 
-![Task 4 Mobile](screenshots/task4-mobile.png)
+![Task 4 Mobile](image-3.png)
 
 Tablet:
 
-![Task 4 Tablet](screenshots/task4-tablet.png)
+![Task 4 Tablet](image-2.png)
 
 Desktop:
 
-![Task 4 Desktop](screenshots/task4-desktop.png)
+![Task 4 Deskto](image-4.png)
 
 ## Summary
 
