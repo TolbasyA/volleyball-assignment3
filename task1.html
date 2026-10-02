@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volleyball Players</title>
+
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .box {
+            width: 100%;
+            border: 1px solid black;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        @media (min-width: 768px) {
+            .box {
+                width: 50%;
+            }
+        }
+
+        @media (min-width: 992px) {
+            .box {
+                width: 33.33%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Volleyball Positions</h1>
+
+    <div class="container">
+
+        <div class="box">
+            <h2>Setter</h2>
+            <p>The setter passes the ball to attackers.</p>
+        </div>
+
+        <div class="box">
+            <h2>Libero</h2>
+            <p>The libero plays in defense.</p>
+        </div>
+
+        <div class="box">
+            <h2>Spiker</h2>
+            <p>The spiker attacks the ball.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
